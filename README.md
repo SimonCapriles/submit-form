@@ -4,6 +4,8 @@
 
 A simple React and Formik submit-form project where the email and password fields are validated
 
+![submit-form.gif](./src/submit-form.gif)
+
 What is being **used** in this project:
 - **React** to create the whole project
 - **Formik** to simplify form fields creation and validations
